@@ -1,0 +1,31 @@
+{
+  "name": "@tianwenh/eslint-config",
+  "version": "0.1.1",
+  "description": "tianwenh's eslint-config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianwenh/eslint-config.git"
+  },
+  "author": "tianwenh",
+  "bugs": {
+    "url": "https://github.com/tianwenh/eslint-config/issues"
+  },
+  "homepage": "https://github.com/tianwenh/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^8.6.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/parser": "^5.9.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "typescript": "^4.4.4"
+  }
+}
